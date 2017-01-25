@@ -1,0 +1,46 @@
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\bin\Debug\MVCPartnersMatcher.exe.config
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\bin\Debug\MVCPartnersMatcher.exe
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\bin\Debug\MVCPartnersMatcher.pdb
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher.csprojResolveAssemblyReference.cache
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Login.g.cs
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\MainWindow.g.cs
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Register.g.cs
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Search.g.cs
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\App.g.cs
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher_MarkupCompile.cache
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher_MarkupCompile.lref
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Login.baml
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\MainWindow.baml
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Register.baml
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Search.baml
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher.g.resources
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher.Properties.Resources.resources
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher.csproj.GenerateResource.Cache
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher.exe
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher.pdb
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Add.g.cs
+C:\Users\Stav\Desktop\לימודים\עבודות סמסטר ה'\ניתוצ\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Add.baml
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\bin\Debug\MVCPartnersMatcher.exe.config
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher.exe
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher.pdb
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\bin\Debug\MVCPartnersMatcher.exe
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\bin\Debug\MVCPartnersMatcher.pdb
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Add.g.cs
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Login.g.cs
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\MainWindow.g.cs
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Register.g.cs
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Search.g.cs
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\SendMessagesWin.g.cs
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\App.g.cs
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher_MarkupCompile.cache
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher_MarkupCompile.lref
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Add.baml
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Login.baml
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\MainWindow.baml
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Register.baml
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\Search.baml
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\View\SendMessagesWin.baml
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher.g.resources
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher.Properties.Resources.resources
+C:\Users\user\Desktop\MVCPartnersMatcher\MVCPartnersMatcher\obj\Debug\MVCPartnersMatcher.csproj.GenerateResource.Cache
